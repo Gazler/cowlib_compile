@@ -1,0 +1,2 @@
+defmodule CowlibCompile do
+end
